@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCalculation", "PriceCalculation\PriceCalculation.csproj", "{4E59FBEB-8D4B-42BF-86D7-68D8CD442C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricecalUnitTest", "PricecalUnitTest\PricecalUnitTest.csproj", "{E7BAC4F5-458F-49E1-8455-FAEEFD06FA4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E59FBEB-8D4B-42BF-86D7-68D8CD442C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E59FBEB-8D4B-42BF-86D7-68D8CD442C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E59FBEB-8D4B-42BF-86D7-68D8CD442C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E59FBEB-8D4B-42BF-86D7-68D8CD442C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BAC4F5-458F-49E1-8455-FAEEFD06FA4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BAC4F5-458F-49E1-8455-FAEEFD06FA4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BAC4F5-458F-49E1-8455-FAEEFD06FA4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BAC4F5-458F-49E1-8455-FAEEFD06FA4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3B7022-AE46-4489-B4FF-4B3A79F26776}
+	EndGlobalSection
+EndGlobal
