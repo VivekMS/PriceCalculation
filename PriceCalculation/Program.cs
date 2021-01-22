@@ -31,7 +31,7 @@ namespace PriceCalculation
             cart.Orders.Add(freshGrocery);
             cart.Orders.Add(grocery);
             cart.Orders.Add(items);
-           
+
 
             double price = cart.Calculate();
             Console.WriteLine("Total Price: {0}", price);

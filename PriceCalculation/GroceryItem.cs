@@ -1,6 +1,6 @@
 ﻿namespace PriceCalculation
 {
-    abstract class GroceryItem
+   public abstract class GroceryItem
     {
         private string name;
         private double price = 0;

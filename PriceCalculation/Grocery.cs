@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PriceCalculation
 {
-    class Grocery : GroceryItem
+    public class Grocery : GroceryItem
     {
         private int quantity = 0;
         private double discount = 0; // We can use this to set the discount percentage

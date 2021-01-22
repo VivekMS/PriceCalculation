@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PriceCalculation
 {
-     class ShoppingCart
+   public  class ShoppingCart
     {
         private List<GroceryItem> orders;
 
@@ -22,9 +22,9 @@ namespace PriceCalculation
             }
         }
 
-        public double Calculate()
+        public double Calculate(double price=0)
         {
-            double price = 0;
+            //double price = 0;
             
 
             if (this.Orders != null)
